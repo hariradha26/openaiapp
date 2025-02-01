@@ -1,5 +1,6 @@
-import streamlit as st.image("https://upload.wikimedia.org/wikipedia/commons/1/17/Artificial_Intelligence_&_AI_&_Machine_Learning_-_30212411048.jpg", 
+import streamlit as st st.image("https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ZpMHR9Qz6hHmbOyzB4xXGw.png", 
          caption="AI-Powered Streamlit App")
+
 import requests
 import json
 import base64
