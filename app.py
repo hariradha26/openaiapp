@@ -1,4 +1,4 @@
-import streamlit as st ("https://itchronicles.com/wp-content/uploads/2020/11/where-is-ai-used.jpg" , caption ="AI-Powered Streamlit App")
+import streamlit as st st.image("https://itchronicles.com/wp-content/uploads/2020/11/where-is-ai-used.jpg" , caption ="AI-Powered Streamlit App")
 
 import requests
 import json
