@@ -1,4 +1,4 @@
-import streamlit as st (https://axenehp.com/wp-content/uploads/2019/02/20190225_header.jpg ="AI-Powered Streamlit App")
+import streamlit as st (https://itchronicles.com/wp-content/uploads/2020/11/where-is-ai-used.jpg ="AI-Powered Streamlit App")
 
 import requests
 import json
